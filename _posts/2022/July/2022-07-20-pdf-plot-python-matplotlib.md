@@ -22,7 +22,7 @@ pip install svglib
 pip install reportlab
 ```
 
-You also need to have latex installed on your system. Check the complete workflow for installation [here.](https://abhigupta.io/2021/05/14/clean-sublime-setup.html)
+You also need to have latex installed on your system. Check the complete workflow for installation [here.](https://abhigupta.in/2021/05/14/clean-sublime-setup.html)
 
 ---
 

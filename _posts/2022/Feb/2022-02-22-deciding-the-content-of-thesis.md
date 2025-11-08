@@ -8,7 +8,7 @@ typora-root-url: ../../../../website
 
 ---
 
-Before submitting the final thesis, we have to give a synopsis report and presentation that marks the end of our Ph.D. journey. A synopsis report intends to enable the student review committee to judge whether a prima facie case exists for accepting the proposed Ph.D. thesis to award the Ph.D. degree. You can read more about it [here](https://abhigupta.io/2022/01/24/writing-synopsis.html).
+Before submitting the final thesis, we have to give a synopsis report and presentation that marks the end of our Ph.D. journey. A synopsis report intends to enable the student review committee to judge whether a prima facie case exists for accepting the proposed Ph.D. thesis to award the Ph.D. degree. You can read more about it [here](https://abhigupta.in/2022/01/24/writing-synopsis.html).
 
 One of the synopsis report sections is titled - "[Proposed Contents of the Thesis](https://github.com/iitrabhi/synopsis-template/blob/master/07.Chapters/Chapter6/Chapter6.tex)." The primary intention of this section is to get approval from your supervisor over the layout of the thesis. Here you decide the flow of the final dissertation. 
 

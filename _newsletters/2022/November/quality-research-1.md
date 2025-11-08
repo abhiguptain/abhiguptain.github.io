@@ -38,7 +38,7 @@ It is easy to become an information hoarder, and I have done this a lot. I have 
 - Websites and application recommendations for quality research.
 - Anything else that I find interesting in the field of computational mechanics.
 
-The whole idea of this newsletter and [my website](http://abhigupta.io/) is to share ideas that will help other researchers accelerate their research output.
+The whole idea of this newsletter and [my website](http://abhigupta.in/) is to share ideas that will help other researchers accelerate their research output.
 
 That’s it for today. I will see you next week.
 

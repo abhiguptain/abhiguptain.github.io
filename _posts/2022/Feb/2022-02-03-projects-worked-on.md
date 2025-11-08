@@ -31,6 +31,6 @@ This is a temporary post to list down all the projects that would in future live
 17. Adaptive phase field topology optimization - `November` `2020`
 18. Random vibration analysis - `March` `2021`
 19. Creative coding in blender - `August` `2021`
-20. My personal website - abhigupta.io - `December` `2021`
+20. My personal website - abhigupta.in - `December` `2021`
 21. Adaptive isogeometric topology optimization - `January` `2022`
 22. Pen printer - `March` `2022`

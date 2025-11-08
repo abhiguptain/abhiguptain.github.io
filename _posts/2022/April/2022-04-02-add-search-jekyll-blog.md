@@ -61,7 +61,7 @@ SimpleJekyllSearch({
 </script>
 ```
 
-Add the CSS styling for the form to the `assets/css` folder and link it to the webpage. Finally add the `search_script.js` file to the `assets/js` folder. You can see the script in action [here](https://abhigupta.io/tags).
+Add the CSS styling for the form to the `assets/css` folder and link it to the webpage. Finally add the `search_script.js` file to the `assets/js` folder. You can see the script in action [here](https://abhigupta.in/tags).
 
 ## References
 

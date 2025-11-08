@@ -2,7 +2,7 @@
 layout: post
 title: Terms Of Service
 ---
-Welcome to abhigupta.io, a personal website owned and operated by Abhinav Gupta. This website is intended to provide information about Abhinav Gupta and his personal projects, and to serve as a platform for online communication with his audience. By accessing or using this website, you agree to be bound by the terms and conditions described in this Terms of Service (the "Terms"). If you do not agree to these Terms, you should not use this website.
+Welcome to abhigupta.in, a personal website owned and operated by Abhinav Gupta. This website is intended to provide information about Abhinav Gupta and his personal projects, and to serve as a platform for online communication with his audience. By accessing or using this website, you agree to be bound by the terms and conditions described in this Terms of Service (the "Terms"). If you do not agree to these Terms, you should not use this website.
 
 ## Refund and Cancellation Policy
 
@@ -38,4 +38,4 @@ If any provision of these Terms shall be deemed unlawful, void, or for any reaso
 
 ## Contact Information
 
-If you have any questions or concerns about these Terms, please contact Abhinav Gupta directly at abhi@abhigupta.io.
+If you have any questions or concerns about these Terms, please contact Abhinav Gupta directly at abhi@abhigupta.in.

@@ -2,7 +2,7 @@
 layout: post
 title: Privacy Policy
 ---
-At abhigupta.io, we value the privacy of our users and are committed to protecting the information that you share with us. This privacy policy explains what information we collect, why we collect it, how it is used, to whom and how it is disclosed, and the security practices we follow to protect it.
+At abhigupta.in, we value the privacy of our users and are committed to protecting the information that you share with us. This privacy policy explains what information we collect, why we collect it, how it is used, to whom and how it is disclosed, and the security practices we follow to protect it.
 
 ## Information Collection
 
@@ -26,6 +26,6 @@ We may update this privacy policy from time to time, and any changes will be pos
 
 ## Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact us at abhi@abhigupta.io.
+If you have any questions or concerns about this privacy policy, please contact us at abhi@abhigupta.in.
 
 Effective Date: January 2023

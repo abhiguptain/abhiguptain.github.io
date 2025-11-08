@@ -6,7 +6,7 @@ tags: [latex]
 typora-root-url: ../../../website
 ---
 
-I am using sublime as the latex editor of choice, and I like it. You can learn more about it [here](https://abhigupta.io/2021/05/14/clean-sublime-setup.html). The only problem with the current workflow is that it creates all the output files and auxiliary files in the root directory. These additional files make a mess. I desire to keep things clean and minimal. 
+I am using sublime as the latex editor of choice, and I like it. You can learn more about it [here](https://abhigupta.in/2021/05/14/clean-sublime-setup.html). The only problem with the current workflow is that it creates all the output files and auxiliary files in the root directory. These additional files make a mess. I desire to keep things clean and minimal. 
 
 Today I found a solution for my problem. We need to set the `aux_directory` and the `output_directory` keys in the `.sublime-project` file. Sublime will then create all the additional folders and files in that directory. If you need to clean your LaTeX project, you only need to delete the cache folder.
 

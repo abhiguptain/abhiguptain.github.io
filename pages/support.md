@@ -27,7 +27,7 @@ If you're not satisfied with your purchase, we offer a 7-day money-back guarante
 
 If you have any other questions or concerns, please don't hesitate to reach out to us. You can contact us via the following methods:
 
-- Email: abhi@abhigupta.io
+- Email: abhi@abhigupta.in
 - Phone: +91-89-8899-8800
 - Address: IIT Roorkee, India
 
